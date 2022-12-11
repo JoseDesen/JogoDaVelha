@@ -246,6 +246,7 @@
 		</script>
 	</head>
 	<body bg-color="white">
+<?php echo "só pra testar"; ?>
 		<h1>Jogo da velha</h1>
 		<form name="f" >
 			
